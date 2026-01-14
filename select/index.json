@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Shadowbringers",
+  "base_artist": "祖堅 正慶",
+  "createdAt": "2026-01-14T00:46:08.607033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shadowbringers",
+      "artist": "Masayoshi Soken",
+      "has_synced": true,
+      "path": "select/01_Shadowbringers_Masayoshi_Soken.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shadowbringers",
+      "artist": "Masayoshi Soken",
+      "has_synced": true,
+      "path": "select/02_Shadowbringers_Masayoshi_Soken.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shadowbringers",
+      "artist": "Soken, Masayoshi",
+      "has_synced": true,
+      "path": "select/03_Shadowbringers_Soken,_Masayoshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Band: Shadowbringers",
+      "artist": "THE PRIMALS",
+      "has_synced": false,
+      "path": "select/04_Band__Shadowbringers_THE_PRIMALS.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Band: Shadowbringers",
+      "artist": "PRIMALS, THE",
+      "has_synced": false,
+      "path": "select/05_Band__Shadowbringers_PRIMALS,_THE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shadowbringers",
+      "artist": "祖堅正慶, 植松 伸夫, Amanda Achen-Keenan & Jason Charles Miller",
+      "has_synced": false,
+      "path": "select/pl_01_Shadowbringers_祖堅正慶,_植松_伸夫,_Amanda_Achen-Keenan_&_Jason_Charles_Miller.txt"
+    }
+  ]
+}
